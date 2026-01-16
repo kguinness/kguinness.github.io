@@ -52,7 +52,7 @@ body {
 }
 
 a {
-    color: #FF9000;
+    color: #FF91AF;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -61,7 +61,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #FF9000;
+    color: #FF91AF;
     outline: none;
     text-decoration: none;
 }
@@ -85,17 +85,17 @@ figure {
 
 ::-webkit-selection {
     color: #fff;
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 ::selection {
     color: #fff;
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 #fh5co-header,
@@ -115,7 +115,7 @@ figure {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(255, 144, 0, 0.9);
+    background: rgba(255, 145, 175, 0.9);
 }
 
 #fh5co-header .display-t,
@@ -253,7 +253,7 @@ figure {
 }
 
 #fh5co-features {
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 #fh5co-features h2 {
@@ -294,7 +294,7 @@ figure {
     display: table-cell;
     vertical-align: middle;
     height: 100px;
-    color: #FF9000 !important;
+    color: #FF91AF !important;
 }
 
 #fh5co-features .feature-left .feature-copy {
@@ -351,7 +351,7 @@ figure {
 
 .fh5co-bg-dark {
     background: #2F3C4F;
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 .fh5co-bg-dark .fh5co-heading h2 {
@@ -416,7 +416,7 @@ figure {
     display: inline-block;
     zoom: 1;
     *display: inline;
-    color: #FF9000;
+    color: #FF91AF;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -458,7 +458,7 @@ figure {
 }
 
 #fh5co-about .fh5co-social-icons li a:hover {
-    background: #FF9000;
+    background: #FF91AF;
 }
 
 .fh5co-heading {
@@ -607,7 +607,7 @@ figure {
     top: 40px;
     left: 50%;
     margin-left: -21px;
-    background-color: #FF9000;
+    background-color: #FF91AF;
     z-index: 100;
     display: table;
     -webkit-border-radius: 50%;
@@ -904,7 +904,7 @@ figure {
     height: 54px;
     border: none !important;
     background: #fff;
-    color: #FF9000;
+    color: #FF91AF;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 400;
@@ -1259,9 +1259,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-    background: #FF9000;
+    background: #FF91AF;
     color: #fff;
-    border: 2px solid #FF9000;
+    border: 2px solid #FF91AF;
 }
 
 .btn-primary:hover,
@@ -1273,14 +1273,14 @@ input[type="text"] {
 
 .btn-primary.btn-outline {
     background: transparent;
-    color: #FF9000;
-    border: 2px solid #FF9000;
+    color: #FF91AF;
+    border: 2px solid #FF91AF;
 }
 
 .btn-primary.btn-outline:hover,
 .btn-primary.btn-outline:focus,
 .btn-primary.btn-outline:active {
-    background: #FF9000;
+    background: #FF91AF;
     color: #fff;
 }
 
@@ -1446,7 +1446,7 @@ input[type="text"] {
 .form-control:focus {
     outline: none;
     box-shadow: none;
-    border-color: #FF9000;
+    border-color: #FF91AF;
 }
 
 .row-pb-md {
